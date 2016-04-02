@@ -4,7 +4,7 @@
     using System.Text;
 
     /// <summary>
-    /// This is the object that the diff. persisters(file persister,  database logger etc.) will operate on. The FormatMessage() method will be called to get the message (formatted) to persist
+    /// This is the object that the diff. persisters(file persister,  database persister etc.) will operate on. The FormatMessage() method will be called to get the message (formatted) to persist
     /// </summary>
     public class Message
     {
